@@ -95,4 +95,4 @@ Customization
         Add new questions in user_input.py.
         Include the new factor in the scoring logic.
 
-Authors: Andrew, Emma, Azreen, Madi
+Authors: Azreen
